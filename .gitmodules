@@ -5,3 +5,6 @@
 [submodule "mpindex"]
 	path = mpindex
 	url = https://github.com/yng-me/mpindex
+[submodule "rcdf"]
+	path = rcdf
+	url = https://github.com/yng-me/rcdf
