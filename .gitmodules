@@ -5,6 +5,12 @@
 [submodule "mpindex"]
 	path = mpindex
 	url = https://github.com/yng-me/mpindex
+[submodule "phscs"]
+	path = phscs
+	url = https://github.com/yng-me/phscs
 [submodule "rcdf"]
 	path = rcdf
 	url = https://github.com/yng-me/rcdf
+[submodule "tsg"]
+	path = tsg
+	url = https://github.com/yng-me/tsg
