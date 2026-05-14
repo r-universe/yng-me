@@ -8,6 +8,9 @@
 [submodule "phscs"]
 	path = phscs
 	url = https://github.com/yng-me/phscs
+[submodule "psgc"]
+	path = psgc
+	url = https://github.com/yng-me/psgc
 [submodule "rcdf"]
 	path = rcdf
 	url = https://github.com/yng-me/rcdf
